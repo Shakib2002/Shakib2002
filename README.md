@@ -1,7 +1,7 @@
  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shakib
 ==============================================================================================================================
 
-Problem Solver at Code Forces || Software Development || Certified Ethical Hacker
+Problem Solver at Code Forces || Software Engineer || Certified Ethical Hacker
 ---------------------------------------------------------------------------------
 
 Shakibul Hasan Shakib is a student. Now he is studying at the Department of Mathematics, Shaheed Suhrawardy College, Dhaka Bangladesh. Besides education, He is a cyber security specialist. Recently he completed a course on CS Fundamentals and Software Development from Phitron. Where he has acquired skills like working on Programming Problem Solving at CodeForces, C, C++, DSA, and Object-Oriented Programming with Python, DataBase, and Project(Django). He is constantly exploring new topics in the technology field and keeping himself up-to-date in this field.
@@ -12,7 +12,7 @@ Shakibul Hasan Shakib is a student. Now he is studying at the Department of Math
 * 🚀  I'm currently working on [Programming Problem Solving at CodeForces](http://codeforces.com/profile/shakib12)
 * 🧠  I'm learning ML.
 * 🤝  I'm open to collaborating on any Project.
-* ⚡  If you are not willing to learn, No one can help you. If you are Determined to learn, No one can stop you.
+* ⚡  If you are not willing to learn, No one can help you. If you are determined to learn, No one can stop you.
 
 <a href="https://www.github.com/Shakib2002" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Shakib2002?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
