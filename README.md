@@ -4,7 +4,7 @@
 Problem Solver at Code Forces || Software Engineer || Certified Ethical Hacker
 ---------------------------------------------------------------------------------
 
-Shakibul Hasan Shakib is a student. Now he is studying at the Department of Mathematics, Shaheed Suhrawardy College, Dhaka Bangladesh. Besides education, He is a cyber security specialist. Recently he completed a course on CS Fundamentals and Software Development from Phitron. Where he has acquired skills like working on Programming Problem Solving at CodeForces, C, C++, DSA, and Object-Oriented Programming with Python, DataBase, and Project(Django). He is constantly exploring new topics in the technology field and keeping himself up-to-date in this field.
+Shakibul Hasan Shakib is a student. Now he is studying at the Department of Mathematics, Dhaka University Affiliated. Besides education, He is a cyber security specialist. Recently he completed a course on CS Fundamentals and Software Development from Phitron. Where he has acquired skills like working on Programming Problem Solving at CodeForces, C, C++, DSA, and Object-Oriented Programming with Python, DataBase, and Project(Django). He is constantly exploring new topics in the technology field and keeping himself up-to-date in this field.
 
 * 🌍  I'm based in Dhaka, Bangladesh.
 * 🖥️  See my portfolio at [shakibulhasanshakib.com](http://shakibulhasanshakib.blogspot.com/)
