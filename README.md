@@ -1,18 +1,54 @@
  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shakib
 ==============================================================================================================================
 
-Problem Solver at Code Forces || Software Engineer || Certified Ethical Hacker
+### **Founder & CEO at SANZOX | AI & YouTube Automation Specialist | Vibe Coding Expert** 🤖✨
 ---------------------------------------------------------------------------------
 
-Shakibul Hasan Shakib is a student. Now he is studying at the Department of Mathematics, Dhaka University Affiliated. Besides education, He is a cyber security specialist. Recently he completed a course on CS Fundamentals and Software Development from Phitron. Where he has acquired skills like working on Programming Problem Solving at CodeForces, C, C++, DSA, and Object-Oriented Programming with Python, DataBase, and Project(Django). He is constantly exploring new topics in the technology field and keeping himself up-to-date in this field.
+# 👋 Hello, I'm Shakib! 🚀
+I am an automation-first developer with over **5 years of experience** in building scalable digital ecosystems. My passion lies in bridging the gap between human creativity and autonomous technology. Whether it's architecting complex AI workflows or high-performance web apps, I build for efficiency and growth. 🛠️📈
 
-* 🌍  I'm based in Dhaka, Bangladesh.
-* 🖥️  See my portfolio at [shakib-protfolio.vercel.app](https://shakib-protfolio.vercel.app/)
-* ✉️  You can contact me at [shakib123.org@gmail.com](mailto:shakib123.org@gmail.com)
-* 🚀  I'm currently working on [Programming Problem Solving at CodeForces](http://codeforces.com/profile/shakib12)
-* 🧠  I'm learning ML.
-* 🤝  I'm open to collaborating on any Project.
-* ⚡  If you are not willing to learn, No one can help you. If you are determined to learn, No one can stop you.
+---
+
+### **🛠️ My Technical Arsenal**
+
+* **💻 Languages & Frameworks:** React, Vite, Node.js, JavaScript, Kotlin, Java.
+* **🤖 Automation:** AI Workflow Design, YouTube Automation, No-Code Solutions (Make.com, Zapier).
+* **🌐 Web Development:** Vibe Coding, Tailwind CSS, Responsive UI/UX.
+* **🚀 Platforms:** Shopify, WordPress, Supabase, Firebase, Vercel.
+* **📱 Android:** Jetpack Compose, MVVM, Clean Architecture.
+
+---
+
+### **📊 What I’m Currently Working On**
+
+* **🏢 SANZOX:** Leading an agency focused on AI and YouTube Automation services.
+* **🌌 Billalaiuniverse.com:** Implementing advanced AI content pipelines and channel growth systems.
+* **💎 Custom Gems:** Building AI-driven development tools for rapid application building.
+
+---
+
+### **⚡ My Philosophy: Vibe Coding**
+I believe in **Vibe Coding**—the art of rapid, intuitive, and high-speed development. By eliminating the friction between idea and execution, I deliver production-ready solutions at the speed of thought. 💨🔥
+
+---
+
+### **📫 Let's Connect!**
+
+* 🌐 **Portfolio:** [shakib-protfolio.vercel.app](https://shakib-protfolio.vercel.app)
+* 📧 **Email:** shakib123.org@gmail.com
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/shakib12/]
+
+---
+
+### **📈 GitHub Statistics**
+
+![Shakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakib2002&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakib2002&layout=compact&theme=tokyonight)
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shakib2002&label=Profile%20Views&color=0e75b6&style=flat" alt="Shakib2002" />
+</p>
 
 <a href="https://www.github.com/Shakib2002" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Shakib2002?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
