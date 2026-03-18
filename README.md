@@ -34,7 +34,7 @@ I believe in **Vibe Coding**—the art of rapid, intuitive, and high-speed devel
 
 ### **📫 Let's Connect!**
 
-* 🌐 **Portfolio:** [shakib-protfolio.vercel.app](https://shakib-protfolio.vercel.app)
+* 🌐 **Portfolio:** [shakib-protfolio.vercel.app](http://shakibulhasan.pro.bd/)
 * 📧 **Email:** shakib123.org@gmail.com
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/shakib12/]
 
